@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm William Almeida 👋
 
-<!--
-**wialmeida/wialmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Software Developer
 
-Here are some ideas to get you started:
+I build full-stack applications, automations, APIs, system integrations, and AI-powered solutions focused on solving real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I work with
+
+- Full-Stack Web Development
+- Workflow Automation
+- REST APIs & Webhooks
+- System Integrations
+- AI Integrations
+- Databases & Data Workflows
+- Internal Business Applications
+
+## 💻 Tech Stack
+
+**Languages**
+TypeScript · JavaScript · Python · Java · C · C++ · PHP
+
+**Frontend**
+Next.js · React · HTML · CSS
+
+**Backend & Data**
+REST APIs · PostgreSQL · SQL · MySQL · Webhooks
+
+**Tools & Infrastructure**
+Docker · Git · GitHub · n8n
+
+## 📌 Featured Projects
+
+Projects coming soon.
+
+## 🎓 Education
+
+Currently pursuing a Bachelor's Degree in Computer Science.
+
+## 🌎 Opportunities
+
+Based in Brazil and open to international opportunities and relocation to the United States.
+
+## 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/william-de-almeida-pires/
